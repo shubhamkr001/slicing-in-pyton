@@ -1,0 +1,41 @@
+                                                                                                                             SLICING AND INDEXING
+
+str= "i have not failed. i've just found 10,000 ways that won't work.-Thomas A.Edison"
+
+len(str)=79
+
+str[0]='i'
+
+str[-1]='n'
+
+str.replace('h','y')
+="i yave not failed. i've just found 10,000 ways tyat won't work.-Tyomas A.Edison"
+
+batch='5 girls 3 boys in a class'
+
+batch[0:7]='5 girls'
+
+batch[8:25]='3 boys in a class'
+
+s='Skill Academy Testbook'
+
+print(s[0:13:2])=SilAaey
+
+W='TECHNIQUES'
+
+W[4]='N'
+
+W[6]='Q'
+
+string='hi i hope you are learning experience'
+
+len(string)=37
+
+a='''A
+B
+C'''
+
+print(a)=
+              A
+              B
+              C
